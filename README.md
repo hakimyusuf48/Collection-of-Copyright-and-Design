@@ -9,10 +9,16 @@ The time I did these projects were back in 2023, which was my first year of Eduv
 The main pdf file in the main directory was made with LaTeX so that I can show I still have the skill and produce an easy read about this project.
 There are other 2 files in the LaTeX repo.
 
+---
+
 ## Blog website
 
 I made this website to show my passion of Linux and the upcoming big changes at that time of my assignment. I still believe the year of the Linux will come soon too.
 
+<img width="1920" height="2053" alt="TheLinuxBlog" src="https://github.com/user-attachments/assets/4d6a5a5c-c538-4731-a970-eae7555c620f" />
+
 ## Figma
 
 This showcase my skills of UI design that I did to improve an existing website that was so messy to a design with a good design principles.
+
+<img width="1728" height="3351" alt="Home" src="https://github.com/user-attachments/assets/eae0e59f-6a07-44cd-9e47-3de3cf11e8d2" />
