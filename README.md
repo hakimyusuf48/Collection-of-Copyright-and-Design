@@ -9,8 +9,6 @@ The time I did these projects were back in 2023, which was my first year of Eduv
 The main pdf file in the main directory was made with LaTeX so that I can show I still have the skill and produce an easy read about this project.
 There are other 2 files in the LaTeX repo.
 
----
-
 ## Blog website
 
 I made this website to show my passion of Linux and the upcoming big changes at that time of my assignment. I still believe the year of the Linux will come soon too.
