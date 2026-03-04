@@ -19,4 +19,4 @@ I made this website to show my passion of Linux and the upcoming big changes at 
 
 This showcase my skills of UI design that I did to improve an existing website that was so messy to a design with a good design principles.
 
-<img width="850" alt="Home" src="https://github.com/user-attachments/assets/eae0e59f-6a07-44cd-9e47-3de3cf11e8d2" />
+<img width="500" alt="Home" src="https://github.com/user-attachments/assets/eae0e59f-6a07-44cd-9e47-3de3cf11e8d2" />
